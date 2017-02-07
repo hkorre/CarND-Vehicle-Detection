@@ -56,3 +56,6 @@ There is remove for improvement in the following areas:
   * Trying to use less windows (i.e. less overlap)
   * Trying to decrease the size of the feature list through parameters
   * Trying to see if there is a dominant HOG channel and only processing that channel
+
+## Final Video
+The solution video is the file project_video_soln.mp4
